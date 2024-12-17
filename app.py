@@ -8,7 +8,7 @@ data = pd.read_csv('vehicles_us.csv')
 st.header("Car Sales Data Analysis for Budget Cars")
 
 #  Image
-st.image("image.jpg", caption="Car Sales Analysis", use_container_width=True)
+st.image("image.jpg", caption="Car Sales Analysis", use_column_width=True)
 
 # Sidebar checkbox to filter data by price range
 st.sidebar.subheader("Filters")
