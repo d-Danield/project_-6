@@ -6,7 +6,9 @@ VS Code and Spyder for development and testing
 Render for deployment
 ChatGPT for assistance during development
 I also used CLI for file management and task automation.
+
 About the App
+You can open the app here - https://car-project-by-daniel-davidson.onrender.com
 This app displays a filtered subset of the vehicles_us.csv dataset. I cleaned the data by:
 
 Converting data types to avoid conflicts
