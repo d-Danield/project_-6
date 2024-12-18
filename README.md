@@ -1,26 +1,34 @@
+Introduction
+This project is part of the TripleTen course. It showcases my skills in data analysis, visualization, and web application development. For this project, I utilized:
 
-Intro:
-This is my project for the TripleTen course.
- For making this project I used such instruments and resources:
- To store and work on it - GitHub
- Main build, EDA - VS.Code
- Testing - VS.Code, Spyder
- Deployment - Render 
- Help - ChatGPT
- Some launchiing and file management was done in Terminal CLI
- 
+GitHub for version control and collaboration
+VS Code and Spyder for development and testing
+Render for deployment
+ChatGPT for assistance during development
+I also used CLI for file management and task automation.
+About the App
+This app displays a filtered subset of the vehicles_us.csv dataset. I cleaned the data by:
 
-What is this app and how I made it:
-This app represents the filtered subset of initial dataset vehicles_us.csv
-The data was preproccesed before conducting analysis on it by checking values types and changing them if neccessary to avoid conflicts, checking duplicates and missing data with further replacement of those. After the initial dataset was clean, I conducted the data analysis. 
-During the analysis I tried to focus on what might be intresting and valuable for the viewer and tried to narrow down my research to represent these points. From what I discovered, some price range is significanlty more popular, comparing to other price segments, so I decided to focus on it and build my research and application around it. 
+Converting data types to avoid conflicts
+Removing duplicates
+Handling missing values with appropriate replacements
+The app focuses on analyzing car sales within a specific price range, highlighting trends and insights for users.
 
-How to use:
-On the left side you can find the filter section. Feel free to play around with it and adjust the represented data to your interest. 
+Features
+Interactive price filter: Narrow down the data to cars within your budget
+Visualizations:
+Price distribution histogram
+Model year comparison by condition
+Additional insights on car conditions and features
+User-friendly interface with dynamic filtering and data exploration options
+How to Use
+Use the sidebar to apply filters and explore data insights through interactive charts and tables.
 
-Outro:
-If you have any ideas how to make this app better or questions you want to ask, please reach out to me:
-Telegram - @Daniel_Lugo123
-email - ruanvanjack@gmail.com
+Contact
+I’d love your feedback! Feel free to reach out via:
+
+Telegram: @Daniel_Lugo123
+Email: ruanvanjack@gmail.com
+LinkedIn Profile www.linkedin.com/in/daniel-davidson-798b31279
 
  
